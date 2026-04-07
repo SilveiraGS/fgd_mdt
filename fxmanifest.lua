@@ -5,7 +5,7 @@ lua54 "yes"
 
 name "MDT Policial"
 description ""
-version "1.0.1"
+version "1.0.0"
 
 ui_page "web-side/index.html"
 
