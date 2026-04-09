@@ -4,7 +4,7 @@ game "gta5"
 lua54 "yes"
 
 name "MDT Policial"
-description ""
+description "Tablet Policial"
 version "1.0.0"
 
 ui_page "web-side/index.html"
